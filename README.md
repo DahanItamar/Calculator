@@ -9,4 +9,4 @@ Finally, the code defines CSS styles for the calculator container, display, and 
 
 Overall, the code is a basic implementation of a calculator and could be extended to include additional functionality, such as parentheses, exponentiation, and trigonometric functions.
 
-![Project Image](https://imgur.com/pkg3Y6Z)
+![Project Image](/Calc.png)
