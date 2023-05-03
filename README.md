@@ -8,3 +8,5 @@ The code then adds event listeners to each button using a forEach loop. When a b
 Finally, the code defines CSS styles for the calculator container, display, and buttons.
 
 Overall, the code is a basic implementation of a calculator and could be extended to include additional functionality, such as parentheses, exponentiation, and trigonometric functions.
+
+![Project Image](https://imgur.com/pkg3Y6Z)
